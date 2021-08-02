@@ -15,5 +15,5 @@ Power - ⚡ Fun fact: ...
 ```
 **
 ✨✨✨ 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=Win8ThemeNoBoom&theme=onedark&card_width=15&langs_count=fr,en&show_owner=true&line_height=10&count_private=true&locale=en&border_color=darkblue)](https://github.com/acccounttest/Win8ThemeNoBoom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=Win8ThemeNoBoom&theme=onedark&include_all_commits=true&show_icons=true&line height=3&count_private=true&border_color=darkblue)](https://github.com/acccounttest/Win8ThemeNoBoom)
 ✨✨✨
