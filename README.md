@@ -15,6 +15,6 @@ Power - ⚡ Fun fact: ...
 ```
 **
 ✨✨✨ 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=darkorange)](https://github.com/acccounttest/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkGMaps&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=darkgray)](https://github.com/acccounttest/DarkGMaps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=cherry)](https://github.com/acccounttest/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkGMaps&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=celestial_blue)](https://github.com/acccounttest/DarkGMaps)
 ✨✨✨
