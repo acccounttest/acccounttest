@@ -15,6 +15,6 @@ Power - ⚡ Fun fact: ...
 ```
 **
 ✨✨✨ 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=darkblue&icon_color=orange)](https://github.com/acccounttest/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors&theme=onedark&show_icons=true&count_private=true&border_color=blue&bg_color=darkblue&icon_color=yellow&line_height=40)](https://github.com/acccounttest/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkGMaps&theme=onedark&show_icons=true&count_private=true&border_color=darkblue&bg_color=darkred)](https://github.com/acccounttest/DarkGMaps)
 ✨✨✨
