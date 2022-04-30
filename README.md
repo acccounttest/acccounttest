@@ -9,14 +9,6 @@
 -                              ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ```autohotkey
 The famous ideas we need to get started on: 
- - ✨A scope 🔭
- - ✨A root 🌱
- - ✨A chicken 👯
- - ✨An error - 🤔
- - ✨Anything - 💬
- - ✨Elsewhere - 📫
- - ✨Sun - 😄
- - ✨Power - ⚡
  The ⚡ of the 😄 elsewhere📫, anything💬 an error🤔 a 👯,then a 🌱 and a scope 🔭.
 ```
 
