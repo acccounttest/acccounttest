@@ -2,21 +2,22 @@
 
 -                              ✨
 
--                              ✨   ### About me:                    ✨
+-                              ✨   ### About me:              ✨
 
 -                              ✨
 
 -                              ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ```autohotkey
 The famous ideas we need to get started on: 
- - ✨A scope 🔭 I’m currently working on ...
- - ✨A root 🌱 I’m currently learning ...
- - ✨A chicken 👯 I’m looking to collaborate on ...
- - ✨An error - 🤔 I’m looking for help with ...
- - ✨Anything - 💬 Ask me about ...
- - ✨Elsewhere - 📫 How to reach me: ...
- - ✨Sun - 😄 Pronouns: ...
- - ✨Power - ⚡ Fun fact: ...
+ - ✨A scope 🔭
+ - ✨A root 🌱
+ - ✨A chicken 👯
+ - ✨An error - 🤔
+ - ✨Anything - 💬
+ - ✨Elsewhere - 📫
+ - ✨Sun - 😄
+ - ✨Power - ⚡
+ The ⚡ of the 😄 elsewhere📫, anything💬 an error🤔 a 👯,then a 🌱 and a scope 🔭.
 ```
 
 **[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)**
