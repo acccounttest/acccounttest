@@ -1,7 +1,7 @@
 -                                    ✨###About me: ✨
 ```autohotkey
 The famous ideas we need to get started on: 
- + The ⚡ of the 😄 elsewhere📫, anything💬 an error🤔 a 👯,then a 🌱 and a scope 🔭.
+ * The ⚡ of the 😄 elsewhere📫, anything💬 an error🤔 a 👯,then a 🌱 and a scope 🔭.
 ```
 
 **✨[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)✨**
