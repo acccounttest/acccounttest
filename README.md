@@ -1,5 +1,7 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-✨           ### About me:         ✨
+
+            ### About me:          ✨
+
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ```autohotkey
 The famous ideas we need to get started on: 
