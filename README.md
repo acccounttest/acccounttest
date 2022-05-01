@@ -8,6 +8,8 @@ The famous ideas we need to get started on:
 ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors&show_owner=true&theme=onedark&show_icons=true&count_private=true&icon_color=magenta&line_height=60&title_color=green&text_color=lightblue)](https://github.com/acccounttest/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=ChromeTabMouse-Chrome-Tab-Mouse&theme=silver&show_icons=true&count_private=true&icon_color=lightgreen&line_height=60&title_color=green&text_color=blue&theme=dark)](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=ChromeTabMouse-Chrome-Tab-Mouse&theme=silver&show_icons=true&count_private=true&icon_color=c4c816&line_height=60&title_color=green&text_color=lightblue)](https://github.com/acccounttest/ChromeTabMouse-Chrome-Tab-Mouse)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkGMaps&theme=onedark&show_icons=true&count_private=true&border_color=yellow&bg_color=red)](https://github.com/acccounttest/DarkGMaps)
 
 :yellow_heart:![Likes: ](https://komarev.com/ghpvc/?username=acccounttest&style=plastic&Color=FF7F55&label=Likes+:+)    **✨[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)✨**
