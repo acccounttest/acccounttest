@@ -1,5 +1,5 @@
 <br>: 
--                                   ### About me: 
+ -                                   ### About me: 
 ```autohotkey
 The famous ideas we need to get started on: 
  * The ⚡ of the 😄 elsewhere📫, anything💬 an error🤔 a 👯,then a 🌱 and a scope 🔭.
