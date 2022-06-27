@@ -10,9 +10,6 @@ ___
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=DarkGMaps&theme=dark&show_icons=true&count_private=true&line_height=20&border_color=C8f11F&bg_color=340909&title_color=060685&text_color=A651D1)](https://github.com/acccounttest/DarkGMaps)   [![SublimeTab](https://github-readme-stats.vercel.app/api/pin/?username=acccounttest&repo=SublimeTabForSublimeTextAndMetroAndWindows&theme=dracula&show_icons=true&count_private=true&icon_color=C65514&line_height=20&title_color=C19559&text_color=c5F77F&bg_color=24364E&border_color=416C96&show_owner=true&include_all_commits=true)](https://github.com/acccounttest/SublimeTabForSublimeTextAndMetroAndWindows)
 
 
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/DarkChromePastelFluoWebTheme-trick-for-aim-stylish-editor-maybe-or-any-other-editors/releases/)
-
-
 
 :yellow_heart:![Likes: ](https://komarev.com/ghpvc/?username=acccounttest&style=plastic&Color=FF7F55&label=Likes+:+)    **✨[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/ot1985)✨**
 <br>
